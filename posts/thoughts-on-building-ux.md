@@ -8,23 +8,38 @@ Just recently, I got a job (love every bit of it, by the way) that requires me t
 
 > Building good UX is damn hard. Anyone who tells you otherwise is full of shit.
 
-Having said that, I like to think of myself as someone who, given enough time, can thrive on any particular task. And UI/UX (you may point out that these two are completely different things, and you are right), however inexperienced I may be in this area, is no exception.
+Having said that, I like to think of myself as someone who, given enough time, can thrive on any particular task. And UI/UX (you may point out that these two are completely different things, and you are right), however inexperienced I may be in this area, should be no exception.
 
-I'm going to list down my thoughts and some of the things I learned (or re-learned) about building UX. Before going any further, as a warning I'd like to point out that I may just be pulling all these words out of my ass (read: I may just be making all this shit up). However you've already read this far so might as well finish the whole damn thing.
+I'm going to list down my thoughts and some of the things I learned (or re-learned) about building UX. Before going any further, as a warning I'd like to point out that I may just be pulling all these words out of my ass (read: I may just be making all this shit up). However, you've already read this far so might as well just finish the whole damn thing.
 
 ## Thoughts
 
-### 1. Everything starts with the user
+### Everything starts with the end user
 
-### 2. Small details matter
+![end user](http://www.gadgets-club.com/wp-content/uploads/2012/04/satified-ipad-user.jpg "Happy iPad user")
 
-### 3. You don't know everything, and that's good
+> Design is not just what it looks like and feels like. Design is how it works. - Steve Jobs
+
+Good UX is more than just a combination of nice-looking UI elements. Instead, it encompasses the entire collection of user interactions. Therefore, good UX must have a clearly-defined set of intuitive user flows built into its DNA.
+
+It means that a good UI design should not keep the user guessing. As the saying goes:
+
+![user interface](https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAZKAAAAJDIwODMxYjdhLTgyMTktNDk3Zi05NzAxLTQ0ZmJiOGUzZTQwNg.jpg "UX is like a joke")
+
+
+
+
+### Small details matter
+
+- consistency
+
+### You don't know everything, and that's okay
 
 > You won't have everything you need from the get-go, and that's okay
 
-### 4. Constructive criticism is gold
+### Constructive criticism is gold
 
-### 5. One more thing...
+### One more thing...
 
 Something said by a brilliant colleague struck me:
 
