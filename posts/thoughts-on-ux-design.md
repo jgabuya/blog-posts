@@ -14,22 +14,30 @@ I'm going to list down my thoughts and some of the things I learned (or re-learn
 
 ## Thoughts
 
-### Everything starts with the end user
+### Everything Starts with the End User
 
 ![end user](http://www.gadgets-club.com/wp-content/uploads/2012/04/satified-ipad-user.jpg "Happy iPad user")
 
 > Design is not just what it looks like and feels like. Design is how it works. - Steve Jobs
 
-Good UX is more than just a combination of nice-looking UI elements. Instead, it encompasses the entire collection of user interactions. Therefore, good UX must have a clearly-defined set of intuitive user flows built into its DNA.
+Good UX is more than just a combination of nice-looking UI elements. Instead, it encompasses the entire collection of user interactions. Therefore, good UX must have a set of  clearly-defined, intuitive user flows built into its DNA.
 
-It means that a good UI design should not keep the user guessing. As the saying goes:
+It goes without saying that a good UI design should not keep the user guessing. As the saying goes:
 
 ![user interface](https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAZKAAAAJDIwODMxYjdhLTgyMTktNDk3Zi05NzAxLTQ0ZmJiOGUzZTQwNg.jpg "UX is like a joke")
 
+However, designing an _intuitive_ UI  can sometimes be difficult. This is because like many other things, _intuitiveness_ is relative.
+What _you_ find very intuitive might not be as easy to understand for _me_.
 
+It's all a matter of perspective. And it differs for a lot of people, for a number of reasons: age, technical background, clarity of vision, among other things
 
+I think the _key_ is to not only define your target users, but also attempt to strike a balance between **simplicity** and **usability**. By attempting to view the whole set of flows from a target user's perspective, one can potentially have good insights on a much more effective UX design.
 
-### Small details matter
+### Small Details Matter
+
+![small details](http://dmfa3ba8wpnh6.cloudfront.net/00/000147884dd534a7df9b5d10fc0001/file/PHOTO_20665112_127586_46483730_ap.jpg "small details")
+
+It may just be me (and my severe case of OCD), but I get more attracted to something that obviously puts a lot of attention to details. However, within my years of experience
 
 - consistency
 
