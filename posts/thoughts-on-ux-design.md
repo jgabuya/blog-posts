@@ -16,7 +16,7 @@ I'm going to list down my thoughts and some of the things I learned (or re-learn
 
 ### Everything Starts with the End User
 
-![end user](http://www.gadgets-club.com/wp-content/uploads/2012/04/satified-ipad-user.jpg "Happy iPad user")
+![end user](https://www.commitstrip.com/wp-content/uploads/2017/08/Strip-Le-codeur-arros%C3%A9-english.jpg "end users")
 
 > Design is not just what it looks like and feels like. Design is how it works. - Steve Jobs
 
@@ -35,17 +35,35 @@ I think the _key_ is to not only define your target users, but also attempt to s
 
 ### Small Details Matter
 
-![small details](http://dmfa3ba8wpnh6.cloudfront.net/00/000147884dd534a7df9b5d10fc0001/file/PHOTO_20665112_127586_46483730_ap.jpg "small details")
+![small details](https://s3.amazonaws.com/lowres.cartoonstock.com/business-commerce-hr-personnel_department-detail-trouser-absent_minded-dwh110621_low.jpg "attention to details")
 
-It may just be me (and my severe case of OCD), but I get more attracted to something that obviously puts a lot of attention to details. However, within my years of experience
+It may just be me (and my severe case of stupid OCD), but I get more attracted to something that obviously puts a lot of attention to details. In all my years of experience, I find it amusing that even small details can have a large impact to the overall end user experience:
+    - typos
+    - misaligned buttons
+    - poor spacing
+    - poorly constructed alert messages
 
-- consistency
+Granted, to us developers these quirks may seem very minor (cause we have _way bigger problems_ to solve, right?). They can be fixed within minutes (even seconds in some cases). But make no mistake, once they add up they can hurt as bad as a major bug. This might be an exaggeration to some extent, but even minor UI issues in production could make a company lose a lot of money.
 
-### You don't know everything, and that's okay
+Therefore, it is extremely important to include QA testing in any workflow. Because a design that consistently pays attention to small details not only looks clean and elegant, but also promotes trust from its end users. It actually says a damn _LOT_ about how a company values its customers.
+
+### Constructive Criticism is Gold
+
+![criticism](https://viralviralvideos.com/wp-content/uploads/meme/2014/03/-Comics---Criticism-Funny-MEME-GIF.jpg "criticism")
+
+If there's one thing I learned the hard way, it's that we should be always open for criticism - no matter how harsh they may seem to be. Here's why: **we always make mistakes whether we like it or not**
+
+Sometimes, we put too much hardwork on something only to get our egos crushed by honest criticism. Let me tell you something: Fuck our egos. They provide a false sense of entitlement which could potentially create a gap between us and our "inferior" teammates.
+
+It is never about you. It's about building something the best you could, and that includes getting feedback from other people.
+
+Again, this is about _perspective_. What makes constructive criticism important is that not only it makes us aware of where we fucked up, but also provides helpful advice on how not to. It gives a whole level of perspective which we won't be able to attain by ourselves.
+
+By opening ourselves to constructive criticism, we effectively put ourselves in the best position for growth.
+
+### Always Iterate. Never settle.
 
 > You won't have everything you need from the get-go, and that's okay
-
-### Constructive criticism is gold
 
 ### One more thing...
 
@@ -57,4 +75,4 @@ Cheers!
 
 ...
 
-TL;DR I got the chance to focus on building UI/UX and realized that it's not as easy as I thought it would be.
+TL;DR I got the chance to focus on building UI/UX and learned awesome shit in the process.
