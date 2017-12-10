@@ -38,10 +38,11 @@ I think the _key_ is to not only define your target users, but also attempt to s
 ![small details](https://s3.amazonaws.com/lowres.cartoonstock.com/business-commerce-hr-personnel_department-detail-trouser-absent_minded-dwh110621_low.jpg "attention to details")
 
 It may just be me (and my severe case of stupid OCD), but I get more attracted to something that obviously puts a lot of attention to details. In all my years of experience, I find it amusing that even small details can have a large impact to the overall end user experience:
-    - typos
-    - misaligned buttons
-    - poor spacing
-    - poorly constructed alert messages
+
+- typos
+- misaligned buttons
+- poor spacing
+- poorly constructed alert messages
 
 Granted, to us developers these quirks may seem very minor (cause we have _way bigger problems_ to solve, right?). They can be fixed within minutes (even seconds in some cases). But make no mistake, once they add up they can hurt as bad as a major bug. This might be an exaggeration to some extent, but even minor UI issues in production could make a company lose a lot of money.
 
