@@ -1,4 +1,4 @@
-# Thoughts on Building UX
+# Thoughts on UX Design
 
 ## Introduction
 
