@@ -2,7 +2,7 @@
 
 ## Introduction
 
-I like to call myself a full stack web developer. Being a freelancer for pretty much my whole career, I had the opportunity (read: forced) to work on different technologies on both frontend and backend. Truth be told, I am not an expert in any of those things. Sure, I may have a particular skillset (in Liam Neeson's voice) but my skill level in any area is nothing compared to, say, a dedicated frontend or backend developer.
+I like to call myself a full stack web developer. Being a freelancer for pretty much my whole career, I had the opportunity (read: forced) to work on different technologies on both frontend and backend. Truth be told, I am not an expert in any of those things. Sure, I may have a particular skillset (in Liam Neeson's _Taken_ voice) but my skill level in any area is nothing compared to, say, a dedicated frontend or backend developer.
 
 Just recently, I got a job (love every bit of it, by the way) that requires me to focus on the frontend. Just days into it, I remembered an old realization that just proves to be true, time and time again:
 
@@ -10,9 +10,7 @@ Just recently, I got a job (love every bit of it, by the way) that requires me t
 
 Having said that, I like to think of myself as someone who, given enough time, can thrive on any particular task. And UI/UX, however inexperienced I may be in this area, is no exception.
 
-Before going further, as a warning I'd like to point out that I may just be pulling all these thoughts out of my ass (read: I may just be making all this shit up). However you've already read this far so might as well finish the whole damn thing.
-
-Here's what I learned so far. Remember, you've been warned:
+I'm going to list down my thoughts and some of the things I learned (or re-learned) about building UX. Before going any further, as a warning I'd like to point out that I may just be pulling all these words out of my ass (read: I may just be making all this shit up). However you've already read this far so might as well finish the whole damn thing.
 
 ## Thoughts
 
