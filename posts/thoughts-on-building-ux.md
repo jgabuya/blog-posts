@@ -6,9 +6,9 @@ I like to call myself a full stack web developer. Being a freelancer for pretty 
 
 Just recently, I got a job (love every bit of it, by the way) that requires me to focus on the frontend. Just days into it, I remembered an old realization that just proves to be true, time and time again:
 
-> Building UI/UX is damn hard. Anyone who tells you otherwise is full of shit.
+> Building good UX is damn hard. Anyone who tells you otherwise is full of shit.
 
-Having said that, I like to think of myself as someone who, given enough time, can thrive on any particular task. And UI/UX, however inexperienced I may be in this area, is no exception.
+Having said that, I like to think of myself as someone who, given enough time, can thrive on any particular task. And UI/UX (you may point out that these two are completely different things, and you are right), however inexperienced I may be in this area, is no exception.
 
 I'm going to list down my thoughts and some of the things I learned (or re-learned) about building UX. Before going any further, as a warning I'd like to point out that I may just be pulling all these words out of my ass (read: I may just be making all this shit up). However you've already read this far so might as well finish the whole damn thing.
 
