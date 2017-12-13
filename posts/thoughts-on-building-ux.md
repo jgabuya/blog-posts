@@ -2,13 +2,13 @@
 
 ## Introduction
 
-I like to call myself a full stack web developer. Being a freelancer for years, I had the opportunity (read: forced) to work on different technologies on both frontend and backend. Truth be told, I am not an expert in any of those things. Sure, I may have a particular skillset (in Liam Neeson's _Taken_ voice) but my skill level in any area is nothing compared to, say, a dedicated frontend or backend developer.
+I like to call myself a full stack web developer. Having been a freelancer for years, I had the opportunity (read: forced) to work on different technologies on both frontend and backend. Truth be told, I am not an expert in any of these things. Sure, I may have a particular skillset (in Liam Neeson's _Taken_ voice) but my skill level in any area is nothing compared to, say, a dedicated frontend or backend developer.
 
 Just recently, I got the chance to focus on frontend development. Just days into it, I remembered an old realization that just proves to be true, time and time again:
 
 > Building good UX is d&ast;mn hard. Anyone who tells you otherwise is full of sh&ast;t.
 
-Having said that, I like to think of myself as someone who, given enough time, can thrive on any particular task. And UI/UX (you may point out that these two are completely different things, and you are right), however inexperienced I may be in this area, should be no exception.
+Having said that, I like to think of myself as someone who, given enough time, can thrive on any particular task. And UI/UX (you may point out that these two are completely different things, and you are right), however inexperienced I may be in these areas, should be no exception.
 
 I'm going to list down my thoughts and some of the things I learned (or re-learned) about building UX. Before going any further, as a warning I'd like to point out that I may just be pulling all these words out of my a&ast;&ast; (read: I may just be making all this sh&ast;t up). However, you've already read this far so might as well just finish the whole d&ast;mn thing.
 
@@ -46,7 +46,7 @@ It may just be me (and my severe case of stupid OCD), but I get more attracted t
 - bad spacing
 - poorly constructed alert messages
 
-Granted, to us developers these quirks may seem very minor (cause we have _way bigger problems_ to solve, right?). They can be fixed within minutes (even seconds in some cases). But make no mistake, once they add up they can hurt as bad as a major bug. This might be an exaggeration to some extent, but even minor UI issues in production could make a company lose a lot of money.
+Granted, to us developers these quirks may seem very minor (cause we have _way bigger problems_ to solve, right?). They can be fixed within minutes (even seconds in some cases). But make no mistake, once they add up they can hurt just as bad as a major bug. This might be an exaggeration to some extent, but even minor UI issues in production could make a company lose a lot of money.
 
 Therefore, it is extremely important to include QA testing in any workflow. Because a design that consistently pays attention to small details not only looks clean and elegant, but also promotes trust from its end users. It actually says a d&ast;mn _LOT_ about how a company values its customers.
 
@@ -70,13 +70,13 @@ By opening ourselves to constructive criticism, we effectively put ourselves in 
 
 > When you're finished changing, you're finished. -Benjamin Franklin
 
-Technology changes at a very rapid pace, and people demand much better user experiences more than ever. What's hip and cool right now could become obsolete eighteen months later.
+Technology changes at a very rapid pace, and people demand much better user experiences more than ever. What's hip and cool right now could become obsolete six months later.
 
 As a result, product design must adapt to the ever changing user requirements. A good design is always a work in progress. The moment you stop iterating is the moment your product starts dying.
 
 That doesn't mean that you should just mindlessly slap every new d&ast;mn trend into your design as it comes along. This is where A/B testing proves to be useful. If something works, keep it. Otherwise revert to the old version and move on.
 
-The secret is to never be afraid to try something new. Don't be afraid to fail or alienate your users. There is always something that can be learned through failure. That alone is a good reason why there's no such thing.
+The secret is to never be afraid to try something new. Don't be afraid of failure or the possibility of alienating your users. There is always something that can be learned through failing. That alone is a good reason why there's no such thing.
 
 ### One more thing...
 
@@ -88,28 +88,28 @@ Those might not be the exact words because I always screw up when it comes to re
 
 I think it means that UI should be the best possible reflection of not just what a product can do, but also how _it empowers_ its users. As flawless an end user product's backend may be, it still needs at least an equally good user interface to appeal to customers.
 
-The question is: What constitutes a revolutionary UI?
+The question is: What constitutes a **revolutionary UI**?
 
-There could be a lot of things. But to be honest, I have no idea. I'll just recognize one when I see it. That hardest part is to come up with something that can be classified as "revolutionary design".
+There could be a lot of things. But to be honest, I can't name anything specific. I'll just recognize one when I see it. That hardest part is to come up with something that can be considered "revolutionary design".
 
-If we think about it, "revolutionary" could mean one of these things:
+If we think about it, **revolutionary** could mean one of these things:
 
 - profound
 - extraordinary
 - rebellious
 
-If we look deeper into it, we could say that a revolutionary UI is something that allows the user to do what he/she wants to do in a way that is orders of magnitude better than what is accustomed to. So perhaps asking these questions might help us get some clues:
+If we look deeper into it, we could say that a revolutionary UI is something that allows the user to do what he/she wants to do in a way that is orders of magnitude better than what is accustomed to. So perhaps asking the following questions might help us get some clues:
 
-- What does the user want to achieve when using our product?
+- What does the user want to achieve when using your product?
 - What are the ways to achieve it?
 - How many steps are involved?
 - Are there ways to reach that goal without going through these steps?
 
-Of course, this won't guarantee anything. Sometimes it takes a lot of imagination and hardwork. Sometimes there is no good starting point. Just start anyway. You'll never know the true extent of what you can come up with.
+Of course, this won't guarantee anything. Sometimes it takes a lot of imagination and hardwork. And oftentimes there is no good starting point. Just start anyway. You'll never know the true extent of what you can come up with.
 
 ### Summary
 
-Building a good user experience is hard. But if you pay attention to details, embrace criticism and iterate constantly, it will make the process a whole lot easier.
+Building a good user experience is hard. But if you pay attention to details, embrace criticism and iterate constantly, it will help make the process a whole lot easier.
 
 Cheers!
 
