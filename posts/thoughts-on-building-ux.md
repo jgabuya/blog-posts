@@ -90,7 +90,7 @@ I think it means that UI should be the best possible reflection of not just what
 
 The question is: What constitutes a **revolutionary UI**?
 
-There could be a lot of things. But to be honest, I can't name anything specific. I'll just recognize one when I see it. That hardest part is to come up with something that can be considered "revolutionary design".
+There could be a lot of things. But to be honest, I can't name anything specific. I'll just recognize one when I see it. The hardest part is to come up with something that can be considered "revolutionary design".
 
 If we think about it, **revolutionary** could mean one of these things:
 
