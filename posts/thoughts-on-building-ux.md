@@ -6,11 +6,11 @@ I like to call myself a full stack web developer. Being a freelancer for years, 
 
 Just recently, I got the chance to focus on frontend development. Just days into it, I remembered an old realization that just proves to be true, time and time again:
 
-> Building good UX is d*mn hard. Anyone who tells you otherwise is full of sh*t.
+> Building good UX is d&ast;mn hard. Anyone who tells you otherwise is full of sh&ast;t.
 
 Having said that, I like to think of myself as someone who, given enough time, can thrive on any particular task. And UI/UX (you may point out that these two are completely different things, and you are right), however inexperienced I may be in this area, should be no exception.
 
-I'm going to list down my thoughts and some of the things I learned (or re-learned) about building UX. Before going any further, as a warning I'd like to point out that I may just be pulling all these words out of my a** (read: I may just be making all this sh*t up). However, you've already read this far so might as well just finish the whole d*mn thing.
+I'm going to list down my thoughts and some of the things I learned (or re-learned) about building UX. Before going any further, as a warning I'd like to point out that I may just be pulling all these words out of my a&ast;&ast; (read: I may just be making all this sh&ast;t up). However, you've already read this far so might as well just finish the whole d&ast;mn thing.
 
 ## Thoughts
 
@@ -48,7 +48,7 @@ It may just be me (and my severe case of stupid OCD), but I get more attracted t
 
 Granted, to us developers these quirks may seem very minor (cause we have _way bigger problems_ to solve, right?). They can be fixed within minutes (even seconds in some cases). But make no mistake, once they add up they can hurt as bad as a major bug. This might be an exaggeration to some extent, but even minor UI issues in production could make a company lose a lot of money.
 
-Therefore, it is extremely important to include QA testing in any workflow. Because a design that consistently pays attention to small details not only looks clean and elegant, but also promotes trust from its end users. It actually says a d*mn _LOT_ about how a company values its customers.
+Therefore, it is extremely important to include QA testing in any workflow. Because a design that consistently pays attention to small details not only looks clean and elegant, but also promotes trust from its end users. It actually says a d&ast;mn _LOT_ about how a company values its customers.
 
 ### Constructive Criticism is Gold
 
@@ -56,11 +56,11 @@ Therefore, it is extremely important to include QA testing in any workflow. Beca
 
 If there's one thing I learned the hard way, it's that we should be always open for criticism - no matter how harsh they may seem to be. Here's why: **We make mistakes whether we like it or not.**
 
-Sometimes, we put too much hardwork on something only to get our egos crushed by honest criticism. Let me tell you something: F*ck egos. They provide a false sense of entitlement which could potentially create a gap between ourselves and people around us.
+Sometimes, we put too much hardwork on something only to get our egos crushed by honest criticism. Let me tell you something: F&ast;ck egos. They provide a false sense of entitlement which could potentially create a gap between ourselves and people around us.
 
 It is never about you. It's about building something the best you could, and that includes getting feedback from as many people as possible.
 
-Again, this is about _perspective_. What makes constructive criticism important is that not only it makes us aware of _where_ we f*cked up, but also provides helpful advice on how not to. It gives a whole level of perspective which we won't be able to attain by ourselves.
+Again, this is about _perspective_. What makes constructive criticism important is that not only it makes us aware of _where_ we f&ast;cked up, but also provides helpful advice on how not to. It gives a whole level of perspective which we won't be able to attain by ourselves.
 
 By opening ourselves to constructive criticism, we effectively put ourselves in the best position for growth.
 
@@ -74,7 +74,7 @@ Technology changes at a very rapid pace, and people demand much better user expe
 
 As a result, product design must adapt to the ever changing user requirements. A good design is always a work in progress. The moment you stop iterating is the moment your product starts dying.
 
-That doesn't mean that you should just mindlessly slap every new d*mn trend into your design as it comes along. This is where A/B testing proves to be useful. If something works, keep it. Otherwise revert to the old version and move on.
+That doesn't mean that you should just mindlessly slap every new d&ast;mn trend into your design as it comes along. This is where A/B testing proves to be useful. If something works, keep it. Otherwise revert to the old version and move on.
 
 The secret is to never be afraid to try something new. Don't be afraid to fail or alienate your users. There is always something that can be learned through failure. That alone is a good reason why there's no such thing.
 
@@ -115,4 +115,4 @@ Cheers!
 
 ...
 
-TL;DR I got the chance to focus on building UI/UX and learned awesome sh*t in the process.
+TL;DR I got the chance to focus on building UI/UX and learned awesome sh&ast;t in the process.
