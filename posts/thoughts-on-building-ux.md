@@ -56,7 +56,7 @@ Therefore, it is extremely important to include QA testing in any workflow. Beca
 
 If there's one thing I learned the hard way, it's that we should be always open for criticism - no matter how harsh they may seem to be. Here's why: **We make mistakes whether we like it or not.**
 
-Sometimes, we put too much hardwork on something only to get our egos crushed by honest criticism. Let me tell you something: F&ast;ck egos. They provide a false sense of entitlement which could potentially create a gap between ourselves and people around us.
+Sometimes, we put too much hardwork onto something only to get our egos crushed by honest criticism. Let me tell you something: F&ast;ck egos. They provide a false sense of entitlement which could potentially create a gap between ourselves and people around us.
 
 It is never about you. It's about building something the best you could, and that includes getting feedback from as many people as possible.
 
