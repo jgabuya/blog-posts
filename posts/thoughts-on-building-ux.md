@@ -1,6 +1,6 @@
 # Thoughts on Building UX
 
-![cover photo](https://static.pexels.com/photos/176342/pexels-photo-176342.jpeg "")
+![cover photo](https://static.pexels.com/photos/176342/pexels-photo-176342.jpeg "cover photo")
 
 ## Introduction
 
