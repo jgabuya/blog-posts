@@ -1,5 +1,7 @@
 # Thoughts on Building UX
 
+![cover photo](https://static.pexels.com/photos/176342/pexels-photo-176342.jpeg "")
+
 ## Introduction
 
 I like to call myself a full stack web developer. Having been a freelancer for years, I had the opportunity (read: forced) to work on different technologies on both frontend and backend. Truth be told, I am not an expert in any of these things. Sure, I may have a particular skillset (in Liam Neeson's _Taken_ voice) but my skill level in any area is nothing compared to, say, a dedicated frontend or backend developer.
@@ -10,7 +12,7 @@ Just recently, I got the chance to focus on frontend development. Just days into
 
 Having said that, I like to think of myself as someone who, given enough time, can thrive on any particular task. And UI/UX (you may point out that these two are completely different things, and you are right), however inexperienced I may be in these areas, should be no exception.
 
-I'm going to list down my thoughts and some of the things I learned (or re-learned) about building UX. Before going any further, as a warning I'd like to point out that I may just be pulling all these words out of my a&ast;&ast; (read: I may just be making all this sh&ast;t up). However, you've already read this far so might as well just finish the whole d&ast;mn thing.
+I'm going to list down my thoughts and some of the things I learned (or re-learned) about building UX. Before going any further, as a warning I'd like to point out that I may just be pulling all these words out of my a&ast;&ast; (read: I may just be making all this sh&ast;t up). However, you've already gone this far so might as well just finish the whole d&ast;mn thing.
 
 ## Thoughts
 
